@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DLS Bot</string>
+    <string name="service_description">অফলাইন ক্যারিয়ার মোডে স্বয়ংক্রিয় টাচ ইনপুট পাঠানোর জন্য।</string>
+</resources>
